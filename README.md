@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-Head to [Here](https://jackstockwell.github.io/horiseon-refacto/) 
+Head to [Here](https://jackstockwell.github.io/horiseon-refacto/) to view the webpage.
 
 ## Credits
 
